@@ -25,5 +25,3 @@ gopher godot go go!
 Output:
 
 ![Regex match demo](example/example.png)
-
-_\*Matching terms are highlighted in green_
