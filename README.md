@@ -28,4 +28,4 @@ Output:
 Match: [32mgopher[0m [32mgodot[0m [32mgo[0m [32mgo[0m!
 ```
 
-_\*Matching terms are highlighted in green_
+_\Matching terms are highlighted in green_
